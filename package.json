@@ -1,0 +1,19 @@
+{
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "name": "book-email",
+  "description": "email transport for book logging framework",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-book-email.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "emailjs": "0.2.8"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
