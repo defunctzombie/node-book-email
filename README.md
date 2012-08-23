@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/shtylman/node-book-email.png)](http://travis-ci.org/shtylman/node-book-email)
 book-email is an email transport for the [book](https://github.com/shtylman/node-book) logging framework. It will send the log message via email.
 
 ## installation ##
